@@ -23,7 +23,7 @@ body{
     font-size: 20px;
 }
 
-#animelist{
+.animelist{
     text-align: left;
     font-family: sans-serif;
     font-size: 18px;
